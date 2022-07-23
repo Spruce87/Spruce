@@ -1,0 +1,7 @@
+discord.py
+discord
+pycord
+requests
+PyNaCl
+discord-ui
+pymongo
